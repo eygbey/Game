@@ -1,0 +1,2 @@
+#define DEFAULT_PORT "8080"
+#define DEFAULT_ADDR "127.0.0.0.0"
